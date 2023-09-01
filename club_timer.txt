@@ -1,3 +1,4 @@
-Telegram^Telegram
-Microsoft Word^winword
-Calc^calc
+Telegram^Telegram^C:\Users\Soyibjon\AppData\Roaming\Telegram Desktop\Telegram.exe
+Microsoft Word^winword^C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE
+Calc^calc^calc.exe
+Run Fus^runfus.exe^D:\Dastiy_fayillar\Run fus\rufus-3.22.exe
