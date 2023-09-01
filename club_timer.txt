@@ -1,3 +1,3 @@
-Telegram^C:\Users\Acer\AppData\Roaming\Telegram Desktop\Telegram.exe
+Telegram^Telegram
 Microsoft Word^winword
 Calc^calc
