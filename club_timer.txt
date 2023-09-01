@@ -1,2 +1,2 @@
-Microsoft Word:Word
-Microsoft Excel:Excel
+Microsoft Word^C:\\Program Files (x86)\\Arduino\\arduino.exe
+Microsoft Excel^C:\\Program Files (x86)\\Arduino\\arduino.exe
