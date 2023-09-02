@@ -1,4 +1,4 @@
 Telegram^Telegram^C:\Users\Soyibjon\AppData\Roaming\Telegram Desktop\Telegram.exe^https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/1d/91/74/1d9174c5-76c4-3136-97cc-42e65052eb0d/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/1200x630bb.png
 Microsoft Word^winword^C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE^https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019–present%29.svg/240px-Microsoft_Office_Word_%282019–present%29.svg.png
-Calc^calc^calc.exe^https://www.kindpng.com/picc/m/699-6993811_ios-calculator-icon-png-transparent-png.png
+Calc^calc^calc.exe^https://cdn-icons-png.flaticon.com/512/7075/7075582.png
 Run Fus^runfus.exe^D:\Dastiy_fayillar\Run fus\rufus-3.22.exe^https://pngimg.com/uploads/usb/small/usb_PNG8868.png
